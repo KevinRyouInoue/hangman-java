@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 import static java.lang.Math.sqrt;
 public class HangmanGame {
-
+//t
     // ゲームで使用される単語のリスト
     private static final String[] WORDS = {"programming", "java", "computer", "algorithm", "developer", "keyboard", "internet"};
     // プレイヤーが間違えられる最大試行回数
