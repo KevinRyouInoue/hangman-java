@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
-
+import static java.lang.Math.sqrt;
 public class HangmanGame {
 
     // ゲームで使用される単語のリスト
